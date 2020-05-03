@@ -1,0 +1,11 @@
+D:\Projects\HandmenuHandedness\Assets\Dependencies\net46\Microsoft.Windows.MixedReality.DotNetWinRT\Editor\Microsoft.Windows.MixedReality.DotNetWinRT.Editor.asmdef
+D:\Projects\HandmenuHandedness\Assets\Dependencies\net46\Microsoft.Windows.MixedReality.DotNetWinRT\Editor\Microsoft.Windows.MixedReality.DotNetWinRT.Editor.asmdef.meta
+D:\Projects\HandmenuHandedness\Assets\Dependencies\net46\Microsoft.Windows.MixedReality.DotNetWinRT\Editor\Microsoft.Windows.MixedReality.DotNetWinRT.Init.cs
+D:\Projects\HandmenuHandedness\Assets\Dependencies\net46\Microsoft.Windows.MixedReality.DotNetWinRT\Editor\Microsoft.Windows.MixedReality.DotNetWinRT.Init.cs.meta
+D:\Projects\HandmenuHandedness\Assets\Dependencies\net46\Microsoft.Windows.MixedReality.DotNetWinRT\x64\MonoSupport.dll
+D:\Projects\HandmenuHandedness\Assets\Dependencies\net46\Microsoft.Windows.MixedReality.DotNetWinRT\x64\MonoSupport.dll.meta
+D:\Projects\HandmenuHandedness\Assets\Dependencies\net46\Microsoft.Windows.MixedReality.DotNetWinRT.dll.meta
+D:\Projects\HandmenuHandedness\Assets\Dependencies\net46\System.Drawing.Primitives.dll.meta
+D:\Projects\HandmenuHandedness\Assets\Dependencies\net46\Microsoft.Windows.MixedReality.DotNetWinRT.dll
+D:\Projects\HandmenuHandedness\Assets\Dependencies\net46\System.Drawing.Primitives.dll
+D:\Projects\HandmenuHandedness\MSBuild\Output\obj\Dependencies\Release\net46\HandmenuHandedness.Dependencies.msb4u.csproj.CopyComplete
